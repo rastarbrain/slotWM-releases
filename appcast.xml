@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>slotWM</title>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 04 Nov 2026 03:08:51 -0500</pubDate>
+            <link>https://rastarbrain.com/slotwm/</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rastarbrain/slotWM-releases/releases/download/v0.6.0/slotWM-0.6.0.zip" length="2693199" type="application/octet-stream" sparkle:edSignature="kl+7UDF6kAhZRyxmBfC8vEi4rRZT3oO4/b2PKKW0L+vdyRC9I2uvSNsREgQUGGBVauTWO9Nj+Cn35MN+5YLiDQ=="/>
+        </item>
+    </channel>
+</rss>
