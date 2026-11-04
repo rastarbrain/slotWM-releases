@@ -1,7 +1,7 @@
 # slotWM releases
 
 Signed and notarized downloads of [slotWM](https://rastarbrain.com/slotwm/), a
-macOS window manager by Rastarbrain LLC, and the update feed (`appcast.xml`)
+macOS window manager, and the update feed (`appcast.xml`)
 slotWM checks once a day.
 
 Download the latest version from
