@@ -14,6 +14,8 @@ brew trust --tap rastarbrain/tap
 brew install --cask rastarbrain/tap/slotwm
 ```
 
+slotWM runs on macOS 15 or later, on Apple silicon and Intel Macs.
+
 slotWM is free to try for 14 days, then $4.99 once for every future version.
 The source code is not published here. Questions:
 [hello@rastarbrain.com](mailto:hello@rastarbrain.com).
